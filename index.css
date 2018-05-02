@@ -316,6 +316,16 @@ p {
   width: 460px;
   display: none;
 }
+
+/* .caption {
+  display: none;
+}
+
+.caption:hover {
+  display: block;
+  position: absolute;
+  z-index: 100;
+} */
 /*
 h3:hover{
   font-family: 'savateitalique';
