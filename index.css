@@ -89,7 +89,7 @@ font-weight: 500;
   position: fixed;
    top: 8%;
    right: 7%;
-   width: 8%;
+   width: 7%;
    /*-webkit-filter: drop-shadow(9px 10px 5px 255,105,180);
   filter: drop-shadow(9px 10px 5px 255,105,180);*/
 }
@@ -106,7 +106,7 @@ font-weight: 500;
   position: fixed;
    top: 8%;
    right: 7%;
-   width: 50%;
+   width: 9%;
    /*-webkit-filter: drop-shadow(9px 10px 5px 255,105,180);
   filter: drop-shadow(9px 10px 5px 255,105,180);*/
 
@@ -198,7 +198,7 @@ h2 {
   width: 20%;
   max-width: 400px;
   position: fixed;
-  z-index: 100; 
+  z-index: 100;
 }
 
 /*.smile {
