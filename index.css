@@ -189,16 +189,14 @@ h1 {
 }
 
 h6 {
-  font-family: 'apfel_grotezkbrukt';
-  src: url('apfelgrotezk-brukt-webfont.woff2') format('woff2'),
-       url('apfelgrotezk-brukt-webfont.woff') format('woff');
-  font-size: 25px;
+  font-family: 'apfel_grotezkregular';
+  font-size: 28px;
   font-weight: 300;
   text-align: left;
-  line-height: 50px;
-  letter-spacing: 1px;
+  line-height: 46px;
+  letter-spacing: 2px;
   padding-left:60px;
-  max-width: 44%;
+  max-width: 40%;
   min-width: 250px;
   color: white;
   position: absolute;
